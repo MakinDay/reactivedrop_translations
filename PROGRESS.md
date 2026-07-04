@@ -8,11 +8,11 @@
 | [Dutch](#non-curated-languages) | 28 | 2004 | 43 | 3419 | 313 | 240 | 642 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3260 | 240 | 180 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2564 | 312 | 9 | 367 | 112 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Greek](#greek-ελληνικά) | 1 | 2004 | 38 | 4929 | 316 | 245 | 524 | 142 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Greek](#greek-ελληνικά) | ✔️ | 2004 | ✔️ | 4929 | ✔️ | ✔️ | 256 | 127 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3419 | 313 | 240 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4385 | 1 | 9 | 840 | 124 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 9 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4124 | 313 | 240 | 712 | 147 |
@@ -20,10 +20,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2509 | 293 | 61 | 638 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1034 | 55 | 32 | 6 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4130 | 313 | 240 | 969 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2063 | 30 | 10 | 5 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4470 | 61 | 33 | 209 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 51 | ✔️ | 2 | ✔️ | 71 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 49 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4666 | 313 | 240 | 741 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3419 | 313 | 240 | 977 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2985 | 313 | 240 | 937 | 147 |
@@ -525,9 +525,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 4 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -539,18 +537,9 @@
 
 ### Strings
 
-- [addons/ExampleAddon/reactivedrop_greek.txt](addons/ExampleAddon/resource/reactivedrop_greek.txt) has 39 untranslated strings.
-- [addons/RiskOfRain/reactivedrop_greek.txt](addons/RiskOfRain/resource/reactivedrop_greek.txt) has 95 untranslated strings.
-- [inventory_service_tags_greek.vdf](community/inventory_service/inventory_service_tags_greek.vdf) has 27 untranslated strings.
-- [items_greek.vdf](community/inventory_service/items_greek.vdf) has 316 untranslated strings.
-- [statsweb_greek.vdf](community/stats_website/statsweb_greek.vdf) has 245 untranslated strings.
-- [steam_input_greek.vdf](community/steam_input/steam_input_greek.vdf) has 97 untranslated strings.
-- [workshop_description_greek.vdf](community/workshop/workshop_description_greek.vdf) has 10 untranslated strings.
 - [misc/signage/signage_greek.vdf](misc/signage/signage_greek.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_greek.txt](platform/servers/serverbrowser_greek.txt) has 186 untranslated strings.
-- [basemodui_greek.txt](resource/basemodui_greek.txt) has 1 untranslated strings.
 - [closecaption_greek.txt](resource/closecaption_greek.txt) has 2004 untranslated strings.
-- [gameui_greek.txt](resource/gameui_greek.txt) has 38 untranslated strings.
 - [reactivedrop_greek.txt](resource/reactivedrop_greek.txt) has 4929 untranslated strings.
 
 ### Upcoming Release Notes
@@ -560,21 +549,6 @@
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_greek.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
-- [asw_credits_greek.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_greek.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_greek.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_greek.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_greek.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_greek.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_greek.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_greek.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_greek.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_greek.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_greek.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_greek.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_greek.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_greek.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_greek.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 
@@ -865,10 +839,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 9 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 21 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1262,9 +1233,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 4 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1605,8 +1574,7 @@
 
 ### Strings
 
-- [statsweb_swedish.vdf](community/stats_website/statsweb_swedish.vdf) has 2 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 51 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 49 untranslated strings.
 
 ### Upcoming Release Notes
 
