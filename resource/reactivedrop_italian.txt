@@ -10508,7 +10508,7 @@
 "rd_crafting_output_items"		"Questo progetto creerà:"
 
 "[english]rd_crafting_confirm_title"		"Construct this blueprint?"
-"rd_crafting_confirm_title"		"Costruire questo progetto?"
+"rd_crafting_confirm_title"		"Assemblare questo progetto?"
 "[english]rd_crafting_confirm_blueprint"		"Building \"%s1\" will consume the following resources:"
 "rd_crafting_confirm_blueprint"		"Costruire \"%s1\" consumerà le seguenti risorse:"
 // %s1 is the quantity (a number)
