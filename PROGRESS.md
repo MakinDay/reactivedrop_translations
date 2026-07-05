@@ -1,26 +1,26 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | 4 | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 139 | 27 | 9 | 2 | 126 |
 | [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3808 | 313 | 240 | 974 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3957 | 313 | 240 | 712 | 147 |
 | [Dutch](#non-curated-languages) | 28 | 2004 | 43 | 3426 | 313 | 240 | 642 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3267 | 240 | 180 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2571 | 312 | 9 | 367 | 112 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Greek](#greek-ελληνικά) | ✔️ | 2004 | ✔️ | 4936 | ✔️ | ✔️ | 256 | 127 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3426 | 313 | 240 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4392 | 1 | 9 | 840 | 124 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4131 | 313 | 240 | 712 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3071 | 42 | 29 | 139 | 128 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2516 | 293 | 61 | 638 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1041 | 55 | 32 | 6 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4137 | 313 | 240 | 969 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2070 | 30 | 10 | 5 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4477 | 61 | 33 | 209 | 144 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 56 | ✔️ | ✔️ | ✔️ | 71 |
@@ -42,10 +42,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 4 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 7 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -526,9 +523,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 7 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -857,7 +852,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 7 untranslated strings.
 
 </details>
 
@@ -867,9 +861,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 7 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1241,9 +1233,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 7 untranslated strings.
+✓ Up to date!
 
 </details>
 
