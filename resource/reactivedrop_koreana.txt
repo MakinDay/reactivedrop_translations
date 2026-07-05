@@ -10507,19 +10507,19 @@
 "[english]rd_crafting_output_items"		"This blueprint will create:"
 "rd_crafting_output_items"		"해당 설계도의 제작 물품:"
 
-		"[english]rd_crafting_confirm_title"		"Construct this blueprint?"
-		"rd_crafting_confirm_title"		"Construct this blueprint?"
-		"[english]rd_crafting_confirm_blueprint"		"Building \"%s1\" will consume the following resources:"
-		"rd_crafting_confirm_blueprint"		"Building \"%s1\" will consume the following resources:"
-		// %s1 is the quantity (a number)
-		// %s2 is the item name
-		// %s3 is the disambiguator (like "Season 42" on a HoIAF medal)
-		"[english]rd_crafting_confirm_ingredient"		"%s1× %s2"
-		"rd_crafting_confirm_ingredient"		"%s1× %s2"
-		"[english]rd_crafting_confirm_ingredient_disambiguator"		"%s1× %s2 (%s3)"
-		"rd_crafting_confirm_ingredient_disambiguator"		"%s1× %s2 (%s3)"
-		"[english]rd_crafting_confirm_ending"		"This process cannot be reversed."
-		"rd_crafting_confirm_ending"		"This process cannot be reversed."
+"[english]rd_crafting_confirm_title"		"Construct this blueprint?"
+"rd_crafting_confirm_title"		"해당 설계도를 제작하시겠습니까?"
+"[english]rd_crafting_confirm_blueprint"		"Building \"%s1\" will consume the following resources:"
+"rd_crafting_confirm_blueprint"		"\"%s1\" 제작 시 소모되는 자원:"
+// %s1 is the quantity (a number)
+// %s2 is the item name
+// %s3 is the disambiguator (like "Season 42" on a HoIAF medal)
+"[english]rd_crafting_confirm_ingredient"		"%s1× %s2"
+"rd_crafting_confirm_ingredient"		"%s1× %s2"
+"[english]rd_crafting_confirm_ingredient_disambiguator"		"%s1× %s2 (%s3)"
+"rd_crafting_confirm_ingredient_disambiguator"		"%s1× %s2 (%s3)"
+"[english]rd_crafting_confirm_ending"		"This process cannot be reversed."
+"rd_crafting_confirm_ending"		"이 과정은 되돌릴 수 없습니다."
 
 "[english]rd_crafting_recipe_hoiaf_create_stack_participant"		"Stack HoIAF Participant medals"
 "rd_crafting_recipe_hoiaf_create_stack_participant"		"HoIAF 참가자 훈장 모음"
@@ -10538,12 +10538,12 @@
 "[english]rd_crafting_recipe_hoiaf_stack_warning"		"This process will permanently remove the season number, score, and other statistics from the chosen medal. Your stats will remain visible on the seasonal leaderboards."
 "rd_crafting_recipe_hoiaf_stack_warning"		"이 과정을 거치면 선택한 훈장의 시즌, 점수, 통계에 관한 모든 기록이 영구히 삭제됩니다. 삭제된 기록은 시즌 통계 순위표에서 확인할 수 있습니다."
 
-		"[english]rd_crafting_recipe_refinement_wires"		"Sort Wires"
-		"rd_crafting_recipe_refinement_wires"		"Sort Wires"
+"[english]rd_crafting_recipe_refinement_wires"		"Sort Wires"
+"rd_crafting_recipe_refinement_wires"		"전선 분류"
 "[english]rd_crafting_recipe_refinement_wires_flavor"		""
 "rd_crafting_recipe_refinement_wires_flavor"		""
-		"[english]rd_crafting_recipe_refinement_carbon"		"Refine Carbon Fiber"
-		"rd_crafting_recipe_refinement_carbon"		"Refine Carbon Fiber"
+"[english]rd_crafting_recipe_refinement_carbon"		"Refine Carbon Fiber"
+"rd_crafting_recipe_refinement_carbon"		"탄소 섬유 정제"
 "[english]rd_crafting_recipe_refinement_carbon_flavor"		""
 "rd_crafting_recipe_refinement_carbon_flavor"		""
 
